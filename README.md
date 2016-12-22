@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Tanshaydar/opal.svg?branch=master)](https://travis-ci.org/Tanshaydar/opal)
+
 # opal
 Main repository for the Opal Project (SWT new widgets library)
 
